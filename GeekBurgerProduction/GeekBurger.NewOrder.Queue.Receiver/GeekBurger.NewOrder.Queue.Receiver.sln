@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeekBurger.NewOrder.Queue.Receiver", "GeekBurger.NewOrder.Queue.Receiver.csproj", "{3CC2AD43-0365-4237-B3DB-25E9460737AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CC2AD43-0365-4237-B3DB-25E9460737AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC2AD43-0365-4237-B3DB-25E9460737AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC2AD43-0365-4237-B3DB-25E9460737AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC2AD43-0365-4237-B3DB-25E9460737AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E9C25CD-5C22-4B7A-A98B-FA2C8E4B98D9}
+	EndGlobalSection
+EndGlobal
